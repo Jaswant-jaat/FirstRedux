@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FirstRedux/static/css/main.ad8a675d.css",
+    "main.js": "/FirstRedux/static/js/main.4cce5b72.js",
+    "index.html": "/FirstRedux/index.html",
+    "main.ad8a675d.css.map": "/FirstRedux/static/css/main.ad8a675d.css.map",
+    "main.4cce5b72.js.map": "/FirstRedux/static/js/main.4cce5b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad8a675d.css",
+    "static/js/main.4cce5b72.js"
+  ]
+}
